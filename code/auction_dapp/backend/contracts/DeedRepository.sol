@@ -2,7 +2,7 @@ pragma solidity ^0.4.17;
 import "./ERC721/ERC721Token.sol";
 
 /**
- * @title Repository of ERC721 Deeds
+ * @title Repository of ERC721 Deeds and Commandments
  * This contract contains the list of deeds registered by users.
  * This is a demo to show how tokens (deeds) can be minted and added 
  * to the repository.
